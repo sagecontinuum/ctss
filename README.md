@@ -1,6 +1,6 @@
 # Cloud Training Software Stack (CTSS)
 
-#### Lead: [Wolfgang Gerlach](mailto:wolfgang@uchicago.edu)
+#### Lead: Wolfgang Gerlach
 
 ### Overview:
 
